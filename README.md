@@ -1,2 +1,3 @@
-# dot-files
+# ⚙️ Minimalist Setup
+
 My Personal Preferred Configurations | Always WIP⚠️👷🏼‍♀️👷🏻
