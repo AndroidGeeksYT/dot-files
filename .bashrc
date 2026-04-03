@@ -9,3 +9,6 @@ alias ll="ls -la"
 
 # fastfetch
 fastfetch
+
+# no history
+rm .bash_history
